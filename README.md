@@ -1,5 +1,5 @@
 # Patrones_eva2
-Turnomatico
+Turnomático
 # Sistema Tunomático Inteligente
 
 - Introducción
@@ -11,7 +11,7 @@ La solución propuesta contempla el flujo completo de atención, desde la solici
 Además, el diseño incorpora patrones de software ampliamente utilizados en ingeniería de software moderna, permitiendo mejorar la mantenibilidad, reutilización y escalabilidad de la arquitectura.
 
 
-- Diagrama de Casos de Uso
+-- Diagrama de Casos de Uso
 
   <img width="516" height="1039" alt="1" src="https://github.com/user-attachments/assets/86fd1aeb-99b3-4032-bfe3-601d292e76ee" />
 
@@ -40,7 +40,7 @@ Las relaciones `<<include>>` fueron utilizadas en funcionalidades obligatorias d
 Las relaciones `<<extend>>` representan comportamientos opcionales o situaciones complementarias que pueden ejecutarse dependiendo del contexto operativo.
 
 
-- Diagrama de Clases
+-- Diagrama de Clases
 
   <img width="1474" height="383" alt="2" src="https://github.com/user-attachments/assets/c4ab3116-004a-4b81-89d7-98b2ccf0e187" />
 
@@ -77,14 +77,14 @@ El patrón Bridge separa la lógica de visualización de los dispositivos físic
 De esta forma, el sistema puede mostrar información tanto en televisores LED como en monitores interactivos sin modificar el comportamiento principal.
 
 
-- Diagrama de Implementación
+-- Diagrama de Implementación
 
   <img width="1600" height="463" alt="3" src="https://github.com/user-attachments/assets/e412d6f4-9f49-4adf-adc9-67d42d9335f6" />
 
 
 El diagrama de implementación representa cómo se distribuyen físicamente los componentes dentro de la arquitectura tecnológica.
 
-* Componentes principales
+ Componentes principales
 
 - Terminales de autoservicio.
 - Servidor principal de aplicaciones.
